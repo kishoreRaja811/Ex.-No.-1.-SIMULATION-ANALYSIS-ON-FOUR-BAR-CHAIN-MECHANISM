@@ -57,8 +57,8 @@
 ![WhatsApp Image 2023-12-13 at 9 42 48 AM](https://github.com/rakshadharanika/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149348380/154e5ec5-96d1-4474-bc03-fc4145f8290f)
 ![WhatsApp Image 2023-12-13 at 9 42 47 AM](https://github.com/rakshadharanika/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149348380/23413a63-14a9-4fe2-9721-13d833fad09b)
 
-### Name:V RAKSHA DHARANIKA
-### Register Number: 212223230167
+### Name:KISHORE.R
+### Register Number: 212224230129
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
